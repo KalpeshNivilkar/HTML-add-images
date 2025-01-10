@@ -1,2 +1,2 @@
 # HTML-add-images
-In this project i just added some images using HTML.
+In this project i just added some images using HTML img tag.
